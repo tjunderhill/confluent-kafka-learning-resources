@@ -1,0 +1,104 @@
+image::confluent-logo-300.png[]
+
+=== Confluent/Kafka Learning Resources
+
+==== Download
+* https://www.confluent.io/download/[Confluent Platform Download]
+
+==== Confluent Enterprise and Confluent Cloud
+* https://www.confluent.io/product/confluent-platform/[Confluent Platform Features & Benefits]
+* https://www.confluent.io/confluent-cloud/compare/[Confluent Cloud Standard and Dedicated]
+* https://www.confluent.io/hub/[Confluent Platform Connectors]
+
+==== Learning Material
+
+====== Watch & Listen
+* https://podcasts.apple.com/in/podcast/streaming-audio-a-confluent-podcast-about-apache-kafka/id1401509765[Streaming Audio: a Confluent podcast about Apache Kafka]
+* https://www.confluent.io/online-talks/[Upcoming and Previous Online Talks]
+* https://www.confluent.io/resources/kafka-summit-san-francisco-2018/[Kafka Summit San Francisco 2018]
+* https://www.confluent.io/resources/kafka-summit-london-2018/[Kafka Summit London 2018]
+* https://www.confluent.io/resources/kafka-summit-san-francisco-2019/[Kafka Summit San Francisco 2019]
+* https://www.confluent.io/resources/kafka-summit-london-2019/[Kafka Summit Londo 2019]
+
+====== Read
+* http://docs.confluent.io/current/[Confluent Documentation]
+* https://kafka.apache.org/documentation/[Apache Kafka Documentation]
+* https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf[Designing Event Driven Systems eBook]
+* https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf[Making Sense of Stream Processing eBook]
+* https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf[Kafka: The Definitive Guide eBook]
+* https://assets.confluent.io/m/48c5ed8540ec1f7e/original/2170922-EB-I_Heart_Logs.pdf[I Heart Logs eBook]
+
+====== Hands on
+* https://github.com/confluentinc/examples[Confluent Github Examples]
+* https://github.com/confluentinc/demo-scene[Confluent Github Demos]
+
+Many more resources from our website can be found https://www.confluent.io/resources/[here]
+
+==== Whitepapers
+* https://assets.confluent.io/m/494ef9b6cefa61c/original20190326-WP-Apache_Kafka_Confluent_Platform_Ref_Architecture.pdf[Confluent Platform Reference Architecture]
+* https://assets.confluent.io/m/5bbbc5f29422999/original/20190906-WP-Disaster_Recovery_for_Multi_Datacenter_Apache_Kafka_Deployments.pdf[Disaster Recovery for
+Multi-Datacenter Apache
+Kafka Deployments]
+* https://assets.confluent.io/m/3009644f13fa8428/original/20170928-WP-Comparing_Confluent_Platform_with_Traditional_Messaging_Middleware.pdf[Comparing Confluent Platform with
+Traditional Messaging Middleware]
+* https://assets.confluent.io/m/7e6a01e527df1110/original/20170608-WP-Microservices_in_the_Apache_Kafka_Ecosystem-EN.pdf[Microservices in the
+Apache Kafka Ecosystem ]
+
+==== Professional Services
+* https://www.confluent.io/services/
+
+==== Training
+* https://www.confluent.io/training/#public-training-schedule[Public Training Schedule]
+* https://www.confluent.io/wp-content/uploads/Confluent_DeveloperTraining.pdf[Developer Training Datasheet]
+* https://www.confluent.io/wp-content/uploads/Confluent_Operations_Training_Three_Day.pdf[Operations Training Datasheet]
+
+==== Community Support
+* *Slack group*: https://slackpass.io/confluentcommunity
+* *Mailing list*: https://groups.google.com/forum/#!forum/confluent-platform
+
+==== Blog Posts
+
+====== Microservices and Kafka
+* https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/[Part 1: The Data Dichotomy: Rethinking the Way We Treat Data and Services]
+* https://www.confluent.io/blog/build-services-backbone-events/[Part 2: Build Services on a Backbone of Events]
+* https://www.confluent.io/blog/apache-kafka-for-service-architectures/[Part 3: Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures]
+* https://www.confluent.io/blog/chain-services-exactly-guarantees/[Part 4: Chain Services with Exactly-Once Guarantees]
+* https://www.confluent.io/blog/messaging-single-source-truth/[Part 5: Messaging as the Single Source of Truth]
+* https://www.confluent.io/blog/leveraging-power-database-unbundled/[Part 6: Leveraging the Power of a Database ‘Unbundled’]
+* https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/[Part 7: Building a Microservices Ecosystem with Kafka Streams and KSQL]
+
+====== Pipelines
+* https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/[Part 1: The Simplest Useful Kafka Connect Data Pipeline in the World…or Thereabouts]
+* https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/[Part 2: The Simplest Useful Kafka Connect Data Pipeline in the World…or Thereabouts]
+* https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/[Part 3: The Simplest Useful Kafka Connect Data Pipeline in the World…or Thereabouts]
+* https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data[KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data]
+* https://www.confluent.io/blog/no-more-silos-how-to-integrate-your-databases-with-apache-kafka-and-cdc[No More Silos: How to Integrate Your Databases with Apache Kafka and CDC]
+* https://www.confluent.io/blog/building-real-time-streaming-etl-pipeline-20-minutes/[Building a Real-Time Streaming ETL Pipeline in 20 Minutes]
+* https://www.confluent.io/blog/the-future-of-etl-isnt-what-it-used-to-be/[The Future of ETL Isn’t What It Used To Be]
+* https://www.confluent.io/blog/schema-registry-kafka-stream-processing-yes-virginia-you-really-need-one/[Yes, Virginia, You Really Do Need a Schema Registry]
+* https://www.confluent.io/blog/cloud-analytics-for-on-premises-data-streams-with-kafka[Pipeline to the Cloud – Streaming On-Premises Data for Cloud Analytics]
+* https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data[On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data]
+
+====== Stream Processing
+* https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming[Part 1: Streams and Tables in Apache Kafka: A Primer]
+* https://www.confluent.io/blog/kafka-streams-tables-part-2-topics-partitions-and-storage-fundamentals[Part 2: Streams and Tables in Apache Kafka: Topics, Partitions, and Storage Fundamentals]
+* https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals[Part 3: Streams and Tables in Apache Kafka: Processing Fundamentals with Kafka Streams and ksqlDB]
+* https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts/[P\rt 4: Streams and Tables in Apache Kafka: Elasticity, Fault Tolerance, and Other Advanced Concepts] 
+
+====== Persisting data in Kafka
+* https://www.confluent.io/blog/okay-store-data-apache-kafka/[It’s Okay To Store Data In Apache Kafka]
+* https://www.confluent.io/blog/handling-gdpr-log-forget/[Handling GDPR with Apache Kafka: How does a log forget?]
+* https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/[Publishing with Apache Kafka at The New York]
+
+====== Exactly-Once Semantics (EOS) and Transactions in Kafka
+* https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+* https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f
+
+====== Kafka and Machine Learning
+* https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage[Streaming Machine Learning with Tiered Storage and Without a Data Lake]
+* https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/
+* https://www.confluent.io/blog/predicting-flight-arrivals-with-the-apache-kafka-streams-api/
+* https://www.oreilly.com/ideas/apache-kafka-and-the-four-challenges-of-production-machine-learning-systems
+
+
+Many more blog posts can be found at https://www.confluent.io/blog/
