@@ -10,7 +10,7 @@ image::confluent-logo-300.png[]
 * https://www.confluent.io/confluent-cloud/compare/[Confluent Cloud Standard and Dedicated]
 * https://www.confluent.io/hub/[Confluent Platform Connectors]
 
-==== Learning Material
+==== Learning Materials
 
 ====== Watch & Listen
 * https://podcasts.apple.com/in/podcast/streaming-audio-a-confluent-podcast-about-apache-kafka/id1401509765[Streaming Audio: a Confluent podcast about Apache Kafka]
@@ -19,6 +19,7 @@ image::confluent-logo-300.png[]
 * https://www.confluent.io/resources/kafka-summit-london-2018/[Kafka Summit London 2018]
 * https://www.confluent.io/resources/kafka-summit-san-francisco-2019/[Kafka Summit San Francisco 2019]
 * https://www.confluent.io/resources/kafka-summit-london-2019/[Kafka Summit Londo 2019]
+* https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA[Confluent Youtube Channel]
 
 ====== Read
 * http://docs.confluent.io/current/[Confluent Documentation]
@@ -31,8 +32,9 @@ image::confluent-logo-300.png[]
 ====== Hands on
 * https://github.com/confluentinc/examples[Confluent Github Examples]
 * https://github.com/confluentinc/demo-scene[Confluent Github Demos]
+* https://kafka-tutorials.confluent.io/[Say Hello World to event streaming]
 
-Many more resources from our website can be found https://www.confluent.io/resources/[here]
+Many more resources from our website can be found https://developer.confluent.io/[here] and https://www.confluent.io/resources/[here]
 
 ==== Whitepapers
 * https://assets.confluent.io/m/494ef9b6cefa61c/original20190326-WP-Apache_Kafka_Confluent_Platform_Ref_Architecture.pdf[Confluent Platform Reference Architecture]
@@ -67,7 +69,7 @@ Apache Kafka Ecosystem ]
 * https://www.confluent.io/blog/leveraging-power-database-unbundled/[Part 6: Leveraging the Power of a Database ‘Unbundled’]
 * https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/[Part 7: Building a Microservices Ecosystem with Kafka Streams and KSQL]
 
-====== Pipelines
+====== Data Pipelines
 * https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/[Part 1: The Simplest Useful Kafka Connect Data Pipeline in the World…or Thereabouts]
 * https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/[Part 2: The Simplest Useful Kafka Connect Data Pipeline in the World…or Thereabouts]
 * https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/[Part 3: The Simplest Useful Kafka Connect Data Pipeline in the World…or Thereabouts]
