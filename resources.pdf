@@ -4,16 +4,16 @@
 << /Title (Untitled)
 /Creator (Asciidoctor PDF 1.5.0, based on Prawn 2.2.2)
 /Producer (Asciidoctor PDF 1.5.0, based on Prawn 2.2.2)
-/ModDate (D:20200213094338+00'00')
-/CreationDate (D:20200213094338+00'00')
+/ModDate (D:20200213183251+00'00')
+/CreationDate (D:20200213183251+00'00')
 >>
 endobj
 2 0 obj
 << /Type /Catalog
 /Pages 3 0 R
 /Names 9 0 R
-/Outlines 106 0 R
-/PageLabels 109 0 R
+/Outlines 107 0 R
+/PageLabels 110 0 R
 /PageMode /UseOutlines
 /OpenAction [7 0 R /FitH 841.89]
 /ViewerPreferences << /DisplayDocTitle true
@@ -920,7 +920,7 @@ endobj
 /F1.0 17 0 R
 >>
 /XObject << /I1 11 0 R
-/Stamp1 110 0 R
+/Stamp1 111 0 R
 >>
 >>
 /Annots [18 0 R 20 0 R 21 0 R 22 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R]
@@ -935,7 +935,7 @@ endobj
 >>
 endobj
 10 0 obj
-<< /Names [(__anchor-top) 8 0 R (_blog_posts) 61 0 R (_community_support) 58 0 R (_confluent_enterprise_and_confluent_cloud) 19 0 R (_confluentkafka_learning_resources) 14 0 R (_data_pipelines) 70 0 R (_download) 16 0 R (_exactly_once_semantics_eos_and_transactions_in_kafka) 94 0 R (_hands_on) 39 0 R (_kafka_and_machine_learning) 98 0 R (_learning_materials) 23 0 R (_microservices_and_kafka) 62 0 R (_persisting_data_in_kafka) 90 0 R (_professional_services) 52 0 R (_read) 32 0 R (_stream_processing) 83 0 R (_training) 54 0 R (_watch_listen) 24 0 R (_whitepapers) 47 0 R]
+<< /Names [(__anchor-top) 8 0 R (_blog_posts) 62 0 R (_community_support) 59 0 R (_confluent_enterprise_and_confluent_cloud) 19 0 R (_confluentkafka_learning_resources) 14 0 R (_data_pipelines) 71 0 R (_download) 16 0 R (_exactly_once_semantics_eos_and_transactions_in_kafka) 95 0 R (_hands_on) 39 0 R (_kafka_and_machine_learning) 99 0 R (_learning_materials) 23 0 R (_microservices_and_kafka) 63 0 R (_persisting_data_in_kafka) 91 0 R (_professional_services) 53 0 R (_read) 32 0 R (_stream_processing) 84 0 R (_training) 55 0 R (_watch_listen) 24 0 R (_whitepapers) 47 0 R]
 >>
 endobj
 11 0 obj
@@ -1004,11 +1004,11 @@ endobj
 << /Type /Font
 /BaseFont /7ffb50+NotoSerif-Bold
 /Subtype /TrueType
-/FontDescriptor 113 0 R
+/FontDescriptor 114 0 R
 /FirstChar 32
 /LastChar 255
-/Widths 115 0 R
-/ToUnicode 114 0 R
+/Widths 116 0 R
+/ToUnicode 115 0 R
 >>
 endobj
 16 0 obj
@@ -1018,11 +1018,11 @@ endobj
 << /Type /Font
 /BaseFont /680134+NotoSerif
 /Subtype /TrueType
-/FontDescriptor 117 0 R
+/FontDescriptor 118 0 R
 /FirstChar 32
 /LastChar 255
-/Widths 119 0 R
-/ToUnicode 118 0 R
+/Widths 120 0 R
+/ToUnicode 119 0 R
 >>
 endobj
 18 0 obj
@@ -1283,7 +1283,7 @@ endobj
 >>
 endobj
 45 0 obj
-<< /Length 12479
+<< /Length 12526
 >>
 stream
 q
@@ -1330,7 +1330,7 @@ ET
 BT
 66.24 765.446 Td
 /F1.0 10.5 Tf
-<436f6e666c75656e7420506c6174666f726d205265666572656e636520417263686974656374757265> Tj
+[<42657374205072> 20.0195 <6163746963657320666f7220446576656c6f70696e6720417061636865204b61666b61204170706c69636174696f6e73206f6e20436f6e666c75656e7420436c6f7564>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1365,7 +1365,7 @@ ET
 BT
 66.24 743.666 Td
 /F1.0 10.5 Tf
-[<4469736173746572205265636f7665727920666f72204d756c74692d4461746163656e74657220417061636865204b61666b61204465706c6f> 20.0195 <796d656e7473>] TJ
+<436f6e666c75656e7420506c6174666f726d205265666572656e636520417263686974656374757265> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1400,7 +1400,7 @@ ET
 BT
 66.24 721.886 Td
 /F1.0 10.5 Tf
-[<436f6d706172696e6720436f6e666c75656e7420506c6174666f726d2077697468205472> 20.0195 <61646974696f6e616c204d6573736167696e67204d6964646c6577617265>] TJ
+[<4469736173746572205265636f7665727920666f72204d756c74692d4461746163656e74657220417061636865204b61666b61204465706c6f> 20.0195 <796d656e7473>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1435,6 +1435,41 @@ ET
 BT
 66.24 700.106 Td
 /F1.0 10.5 Tf
+[<436f6d706172696e6720436f6e666c75656e7420506c6174666f726d2077697468205472> 20.0195 <61646974696f6e616c204d6573736167696e67204d6964646c6577617265>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+-0.5 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+56.8805 678.326 Td
+/F1.0 10.5 Tf
+<a5> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+0.0 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+66.24 678.326 Td
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+66.24 678.326 Td
+/F1.0 10.5 Tf
 <4d6963726f736572766963657320696e2074686520417061636865204b61666b612045636f73797374656d> Tj
 ET
 
@@ -1444,7 +1479,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-48.24 665.606 Td
+48.24 643.826 Td
 /F2.0 13 Tf
 <50726f66657373696f6e616c205365727669636573> Tj
 ET
@@ -1457,7 +1492,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 639.046 Td
+56.8805 617.266 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -1470,7 +1505,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 639.046 Td
+66.24 617.266 Td
 ET
 
 0.0 0.0 0.0 SCN
@@ -1479,7 +1514,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 639.046 Td
+66.24 617.266 Td
 /F1.0 10.5 Tf
 [<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f73657276696365732f>] TJ
 ET
@@ -1490,44 +1525,9 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-48.24 604.546 Td
+48.24 582.766 Td
 /F2.0 13 Tf
 [<5472> 20.0195 <61696e696e67>] TJ
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-
--0.5 Tc
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-56.8805 577.986 Td
-/F1.0 10.5 Tf
-<a5> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-
-0.0 Tc
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-66.24 577.986 Td
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2588 0.5451 0.7922 scn
-0.2588 0.5451 0.7922 SCN
-
-BT
-66.24 577.986 Td
-/F1.0 10.5 Tf
-[<5075626c6963205472> 20.0195 <61696e696e67205363686564756c65>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1562,7 +1562,7 @@ ET
 BT
 66.24 556.206 Td
 /F1.0 10.5 Tf
-[<446576656c6f706572205472> 20.0195 <61696e696e6720446174617368656574>] TJ
+[<5075626c6963205472> 20.0195 <61696e696e67205363686564756c65>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1597,18 +1597,7 @@ ET
 BT
 66.24 534.426 Td
 /F1.0 10.5 Tf
-[<4f706572> 20.0195 <6174696f6e73205472> 20.0195 <61696e696e6720446174617368656574>] TJ
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-48.24 499.926 Td
-/F2.0 13 Tf
-<436f6d6d756e69747920537570706f7274> Tj
+[<446576656c6f706572205472> 20.0195 <61696e696e6720446174617368656574>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1619,7 +1608,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 473.366 Td
+56.8805 512.646 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -1632,29 +1621,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 473.366 Td
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-66.24 473.366 Td
-/F2.0 10.5 Tf
-<536c61636b2067726f7570> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-128.841 473.366 Td
-/F1.0 10.5 Tf
-<3a20> Tj
+66.24 512.646 Td
 ET
 
 0.0 0.0 0.0 SCN
@@ -1663,9 +1630,20 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-134.5635 473.366 Td
+66.24 512.646 Td
 /F1.0 10.5 Tf
-<68747470733a2f2f736c61636b706173732e696f2f636f6e666c75656e74636f6d6d756e697479> Tj
+[<4f706572> 20.0195 <6174696f6e73205472> 20.0195 <61696e696e6720446174617368656574>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+48.24 478.146 Td
+/F2.0 13 Tf
+<436f6d6d756e69747920537570706f7274> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1700,7 +1678,7 @@ ET
 BT
 66.24 451.586 Td
 /F2.0 10.5 Tf
-<4d61696c696e67206c697374> Tj
+<536c61636b2067726f7570> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1709,7 +1687,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-125.9535 451.586 Td
+128.841 451.586 Td
 /F1.0 10.5 Tf
 <3a20> Tj
 ET
@@ -1720,31 +1698,9 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-131.676 451.586 Td
+134.5635 451.586 Td
 /F1.0 10.5 Tf
-<68747470733a2f2f67726f7570732e676f6f676c652e636f6d2f666f72756d2f2321666f72756d2f636f6e666c75656e742d706c6174666f726d> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-48.24 417.086 Td
-/F2.0 13 Tf
-<426c6f6720506f737473> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-48.24 388.078 Td
-/F2.0 9 Tf
-<4d6963726f736572766963657320616e64204b61666b61> Tj
+<68747470733a2f2f736c61636b706173732e696f2f636f6e666c75656e74636f6d6d756e697479> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1755,7 +1711,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 362.686 Td
+56.8805 429.806 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -1768,7 +1724,29 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 362.686 Td
+66.24 429.806 Td
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+66.24 429.806 Td
+/F2.0 10.5 Tf
+<4d61696c696e67206c697374> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+125.9535 429.806 Td
+/F1.0 10.5 Tf
+<3a20> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1777,9 +1755,31 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 362.686 Td
+131.676 429.806 Td
 /F1.0 10.5 Tf
-[<5061727420313a20546865204461746120446963686f746f6d793a2052657468696e6b696e67207468652057> 49.8047 <61> 20.0195 <792057> 60.0586 <65205472656174204461746120616e64205365727669636573>] TJ
+<68747470733a2f2f67726f7570732e676f6f676c652e636f6d2f666f72756d2f2321666f72756d2f636f6e666c75656e742d706c6174666f726d> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+48.24 395.306 Td
+/F2.0 13 Tf
+<426c6f6720506f737473> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+48.24 366.298 Td
+/F2.0 9 Tf
+<4d6963726f736572766963657320616e64204b61666b61> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1814,7 +1814,7 @@ ET
 BT
 66.24 340.906 Td
 /F1.0 10.5 Tf
-<5061727420323a204275696c64205365727669636573206f6e2061204261636b626f6e65206f66204576656e7473> Tj
+[<5061727420313a20546865204461746120446963686f746f6d793a2052657468696e6b696e67207468652057> 49.8047 <61> 20.0195 <792057> 60.0586 <65205472656174204461746120616e64205365727669636573>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1849,7 +1849,7 @@ ET
 BT
 66.24 319.126 Td
 /F1.0 10.5 Tf
-<5061727420333a205573696e6720417061636865204b61666b612061732061205363616c61626c652c204576656e742d44726976656e204261636b626f6e6520666f7220536572766963652041726368697465637475726573> Tj
+<5061727420323a204275696c64205365727669636573206f6e2061204261636b626f6e65206f66204576656e7473> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1884,7 +1884,7 @@ ET
 BT
 66.24 297.346 Td
 /F1.0 10.5 Tf
-[<5061727420343a20436861696e20536572766963657320776974682045786163746c792d4f6e63652047756172> 20.0195 <616e74656573>] TJ
+<5061727420333a205573696e6720417061636865204b61666b612061732061205363616c61626c652c204576656e742d44726976656e204261636b626f6e6520666f7220536572766963652041726368697465637475726573> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1919,7 +1919,7 @@ ET
 BT
 66.24 275.566 Td
 /F1.0 10.5 Tf
-<5061727420353a204d6573736167696e67206173207468652053696e676c6520536f75726365206f66205472757468> Tj
+[<5061727420343a20436861696e20536572766963657320776974682045786163746c792d4f6e63652047756172> 20.0195 <616e74656573>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -1954,7 +1954,7 @@ ET
 BT
 66.24 253.786 Td
 /F1.0 10.5 Tf
-[<5061727420363a204c65766572> 20.0195 <6167696e672074686520506f776572206f66206120446174616261736520d4556e62756e646c6564d5>] TJ
+<5061727420353a204d6573736167696e67206173207468652053696e676c6520536f75726365206f66205472757468> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -1989,18 +1989,7 @@ ET
 BT
 66.24 232.006 Td
 /F1.0 10.5 Tf
-<5061727420373a204275696c64696e672061204d6963726f73657276696365732045636f73797374656d2077697468204b61666b612053747265616d7320616e64204b53514c> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-48.24 201.778 Td
-/F2.0 9 Tf
-<4461746120506970656c696e6573> Tj
+[<5061727420363a204c65766572> 20.0195 <6167696e672074686520506f776572206f66206120446174616261736520d4556e62756e646c6564d5>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2011,7 +2000,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 176.386 Td
+56.8805 210.226 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -2024,7 +2013,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 176.386 Td
+66.24 210.226 Td
 ET
 
 0.0 0.0 0.0 SCN
@@ -2033,9 +2022,20 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 176.386 Td
+66.24 210.226 Td
 /F1.0 10.5 Tf
-[<5061727420313a205468652053696d706c6573742055736566756c204b61666b6120436f6e6e656374204461746120506970656c696e6520696e207468652057> 60.0586 <6f726c64c96f7220546865726561626f757473>] TJ
+<5061727420373a204275696c64696e672061204d6963726f73657276696365732045636f73797374656d2077697468204b61666b612053747265616d7320616e64204b53514c> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+48.24 179.998 Td
+/F2.0 9 Tf
+<4461746120506970656c696e6573> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -2070,7 +2070,7 @@ ET
 BT
 66.24 154.606 Td
 /F1.0 10.5 Tf
-[<5061727420323a205468652053696d706c6573742055736566756c204b61666b6120436f6e6e656374204461746120506970656c696e6520696e207468652057> 60.0586 <6f726c64c96f7220546865726561626f757473>] TJ
+[<5061727420313a205468652053696d706c6573742055736566756c204b61666b6120436f6e6e656374204461746120506970656c696e6520696e207468652057> 60.0586 <6f726c64c96f7220546865726561626f757473>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2105,7 +2105,7 @@ ET
 BT
 66.24 132.826 Td
 /F1.0 10.5 Tf
-[<5061727420333a205468652053696d706c6573742055736566756c204b61666b6120436f6e6e656374204461746120506970656c696e6520696e207468652057> 60.0586 <6f726c64c96f7220546865726561626f757473>] TJ
+[<5061727420323a205468652053696d706c6573742055736566756c204b61666b6120436f6e6e656374204461746120506970656c696e6520696e207468652057> 60.0586 <6f726c64c96f7220546865726561626f757473>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2140,7 +2140,7 @@ ET
 BT
 66.24 111.046 Td
 /F1.0 10.5 Tf
-[<4b53514c20696e2041> 20.0195 <6374696f6e3a205265616c2d54696d652053747265616d696e672045544c2066726f6d204f72> 20.0195 <61636c65205472> 20.0195 <616e73616374696f6e616c2044617461>] TJ
+[<5061727420333a205468652053696d706c6573742055736566756c204b61666b6120436f6e6e656374204461746120506970656c696e6520696e207468652057> 60.0586 <6f726c64c96f7220546865726561626f757473>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2175,7 +2175,7 @@ ET
 BT
 66.24 89.266 Td
 /F1.0 10.5 Tf
-[<4e6f204d6f72652053696c6f733a20486f7720746f20496e74656772> 20.0195 <6174652059> 69.8242 <6f757220446174616261736573207769746820417061636865204b61666b6120616e6420434443>] TJ
+[<4b53514c20696e2041> 20.0195 <6374696f6e3a205265616c2d54696d652053747265616d696e672045544c2066726f6d204f72> 20.0195 <61636c65205472> 20.0195 <616e73616374696f6e616c2044617461>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2210,7 +2210,7 @@ ET
 BT
 66.24 67.486 Td
 /F1.0 10.5 Tf
-<4275696c64696e672061205265616c2d54696d652053747265616d696e672045544c20506970656c696e6520696e203230204d696e75746573> Tj
+[<4e6f204d6f72652053696c6f733a20486f7720746f20496e74656772> 20.0195 <6174652059> 69.8242 <6f757220446174616261736573207769746820417061636865204b61666b6120616e6420434443>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2252,10 +2252,10 @@ endobj
 /Font << /F2.0 15 0 R
 /F1.0 17 0 R
 >>
-/XObject << /Stamp2 111 0 R
+/XObject << /Stamp2 112 0 R
 >>
 >>
-/Annots [48 0 R 49 0 R 50 0 R 51 0 R 53 0 R 55 0 R 56 0 R 57 0 R 59 0 R 60 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R]
+/Annots [48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 54 0 R 56 0 R 57 0 R 58 0 R 60 0 R 61 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R]
 >>
 endobj
 47 0 obj
@@ -2265,10 +2265,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://assets.confluent.io/m/494ef9b6cefa61c/original20190326-WP-Apache_Kafka_Confluent_Platform_Ref_Architecture.pdf)
+/URI (https://assets.confluent.io/m/14397e757459a58d/original/20200205-WP-Best_Practices_for_Developing_Apache_Kafka_Applications_on_Confluent_Cloud.pdf)
 >>
 /Subtype /Link
-/Rect [66.24 762.38 280.545 776.66]
+/Rect [66.24 762.38 447.3898 776.66]
 /Type /Annot
 >>
 endobj
@@ -2276,10 +2276,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://assets.confluent.io/m/5bbbc5f29422999/original/20190906-WP-Disaster_Recovery_for_Multi_Datacenter_Apache_Kafka_Deployments.pdf)
+/URI (https://assets.confluent.io/m/494ef9b6cefa61c/original20190326-WP-Apache_Kafka_Confluent_Platform_Ref_Architecture.pdf)
 >>
 /Subtype /Link
-/Rect [66.24 740.6 401.1163 754.88]
+/Rect [66.24 740.6 280.545 754.88]
 /Type /Annot
 >>
 endobj
@@ -2287,10 +2287,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://assets.confluent.io/m/3009644f13fa8428/original/20170928-WP-Comparing_Confluent_Platform_with_Traditional_Messaging_Middleware.pdf)
+/URI (https://assets.confluent.io/m/5bbbc5f29422999/original/20190906-WP-Disaster_Recovery_for_Multi_Datacenter_Apache_Kafka_Deployments.pdf)
 >>
 /Subtype /Link
-/Rect [66.24 718.82 422.4523 733.1]
+/Rect [66.24 718.82 401.1163 733.1]
 /Type /Annot
 >>
 endobj
@@ -2298,49 +2298,49 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://assets.confluent.io/m/7e6a01e527df1110/original/20170608-WP-Microservices_in_the_Apache_Kafka_Ecosystem-EN.pdf)
+/URI (https://assets.confluent.io/m/3009644f13fa8428/original/20170928-WP-Comparing_Confluent_Platform_with_Traditional_Messaging_Middleware.pdf)
 >>
 /Subtype /Link
-/Rect [66.24 697.04 294.258 711.32]
+/Rect [66.24 697.04 422.4523 711.32]
 /Type /Annot
 >>
 endobj
 52 0 obj
-[46 0 R /XYZ 0 684.29 null]
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://assets.confluent.io/m/7e6a01e527df1110/original/20170608-WP-Microservices_in_the_Apache_Kafka_Ecosystem-EN.pdf)
+>>
+/Subtype /Link
+/Rect [66.24 675.26 294.258 689.54]
+/Type /Annot
+>>
 endobj
 53 0 obj
+[46 0 R /XYZ 0 662.51 null]
+endobj
+54 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://www.confluent.io/services/)
 >>
 /Subtype /Link
-/Rect [66.24 635.98 235.7223 650.26]
+/Rect [66.24 614.2 235.7223 628.48]
 /Type /Annot
 >>
 endobj
-54 0 obj
-[46 0 R /XYZ 0 623.23 null]
-endobj
 55 0 obj
+[46 0 R /XYZ 0 601.45 null]
+endobj
+56 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://www.confluent.io/training/#public-training-schedule)
 >>
 /Subtype /Link
-/Rect [66.24 574.92 190.9483 589.2]
-/Type /Annot
->>
-endobj
-56 0 obj
-<< /Border [0 0 0]
-/A << /Type /Action
-/S /URI
-/URI (https://www.confluent.io/wp-content/uploads/Confluent_DeveloperTraining.pdf)
->>
-/Subtype /Link
-/Rect [66.24 553.14 215.3503 567.42]
+/Rect [66.24 553.14 190.9483 567.42]
 /Type /Annot
 >>
 endobj
@@ -2348,63 +2348,63 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/wp-content/uploads/Confluent_Operations_Training_Three_Day.pdf)
+/URI (https://www.confluent.io/wp-content/uploads/Confluent_DeveloperTraining.pdf)
 >>
 /Subtype /Link
-/Rect [66.24 531.36 219.1826 545.64]
+/Rect [66.24 531.36 215.3503 545.64]
 /Type /Annot
 >>
 endobj
 58 0 obj
-[46 0 R /XYZ 0 518.61 null]
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://www.confluent.io/wp-content/uploads/Confluent_Operations_Training_Three_Day.pdf)
+>>
+/Subtype /Link
+/Rect [66.24 509.58 219.1826 523.86]
+/Type /Annot
+>>
 endobj
 59 0 obj
+[46 0 R /XYZ 0 496.83 null]
+endobj
+60 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://slackpass.io/confluentcommunity)
 >>
 /Subtype /Link
-/Rect [134.5635 470.3 336.2055 484.58]
+/Rect [134.5635 448.52 336.2055 462.8]
 /Type /Annot
 >>
 endobj
-60 0 obj
+61 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://groups.google.com/forum/#!forum/confluent-platform)
 >>
 /Subtype /Link
-/Rect [131.676 448.52 435.6405 462.8]
+/Rect [131.676 426.74 435.6405 441.02]
 /Type /Annot
 >>
 endobj
-61 0 obj
-[46 0 R /XYZ 0 435.77 null]
-endobj
 62 0 obj
-[46 0 R /XYZ 0 402.49 null]
+[46 0 R /XYZ 0 413.99 null]
 endobj
 63 0 obj
+[46 0 R /XYZ 0 380.71 null]
+endobj
+64 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
 >>
 /Subtype /Link
-/Rect [66.24 359.62 446.8452 373.9]
-/Type /Annot
->>
-endobj
-64 0 obj
-<< /Border [0 0 0]
-/A << /Type /Action
-/S /URI
-/URI (https://www.confluent.io/blog/build-services-backbone-events/)
->>
-/Subtype /Link
-/Rect [66.24 337.84 296.568 352.12]
+/Rect [66.24 337.84 446.8452 352.12]
 /Type /Annot
 >>
 endobj
@@ -2412,10 +2412,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+/URI (https://www.confluent.io/blog/build-services-backbone-events/)
 >>
 /Subtype /Link
-/Rect [66.24 316.06 517.698 330.34]
+/Rect [66.24 316.06 296.568 330.34]
 /Type /Annot
 >>
 endobj
@@ -2423,10 +2423,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/chain-services-exactly-guarantees/)
+/URI (https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
 >>
 /Subtype /Link
-/Rect [66.24 294.28 327.6583 308.56]
+/Rect [66.24 294.28 517.698 308.56]
 /Type /Annot
 >>
 endobj
@@ -2434,10 +2434,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/messaging-single-source-truth/)
+/URI (https://www.confluent.io/blog/chain-services-exactly-guarantees/)
 >>
 /Subtype /Link
-/Rect [66.24 272.5 299.4135 286.78]
+/Rect [66.24 272.5 327.6583 286.78]
 /Type /Annot
 >>
 endobj
@@ -2445,10 +2445,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/leveraging-power-database-unbundled/)
+/URI (https://www.confluent.io/blog/messaging-single-source-truth/)
 >>
 /Subtype /Link
-/Rect [66.24 250.72 344.4478 265.0]
+/Rect [66.24 250.72 299.4135 265.0]
 /Type /Annot
 >>
 endobj
@@ -2456,32 +2456,32 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+/URI (https://www.confluent.io/blog/leveraging-power-database-unbundled/)
 >>
 /Subtype /Link
-/Rect [66.24 228.94 432.312 243.22]
+/Rect [66.24 228.94 344.4478 243.22]
 /Type /Annot
 >>
 endobj
 70 0 obj
-[46 0 R /XYZ 0 216.19 null]
-endobj
-71 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
+/URI (https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 >>
 /Subtype /Link
-/Rect [66.24 173.32 495.1329 187.6]
+/Rect [66.24 207.16 432.312 221.44]
 /Type /Annot
 >>
+endobj
+71 0 obj
+[46 0 R /XYZ 0 194.41 null]
 endobj
 72 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
+/URI (https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
 >>
 /Subtype /Link
 /Rect [66.24 151.54 495.1329 165.82]
@@ -2492,7 +2492,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
+/URI (https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
 >>
 /Subtype /Link
 /Rect [66.24 129.76 495.1329 144.04]
@@ -2503,10 +2503,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
+/URI (https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
 >>
 /Subtype /Link
-/Rect [66.24 107.98 433.7814 122.26]
+/Rect [66.24 107.98 495.1329 122.26]
 /Type /Annot
 >>
 endobj
@@ -2514,10 +2514,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/no-more-silos-how-to-integrate-your-databases-with-apache-kafka-and-cdc)
+/URI (https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
 >>
 /Subtype /Link
-/Rect [66.24 86.2 446.9611 100.48]
+/Rect [66.24 86.2 433.7814 100.48]
 /Type /Annot
 >>
 endobj
@@ -2525,15 +2525,15 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/building-real-time-streaming-etl-pipeline-20-minutes/)
+/URI (https://www.confluent.io/blog/no-more-silos-how-to-integrate-your-databases-with-apache-kafka-and-cdc)
 >>
 /Subtype /Link
-/Rect [66.24 64.42 360.7545 78.7]
+/Rect [66.24 64.42 446.9611 78.7]
 /Type /Annot
 >>
 endobj
 77 0 obj
-<< /Length 10699
+<< /Length 11159
 >>
 stream
 q
@@ -2569,7 +2569,7 @@ ET
 BT
 66.24 793.926 Td
 /F1.0 10.5 Tf
-[<54686520467574757265206f662045544c2049736ed574205768617420497420557365642054> 29.7852 <6f204265>] TJ
+<4275696c64696e672061205265616c2d54696d652053747265616d696e672045544c20506970656c696e6520696e203230204d696e75746573> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -2604,7 +2604,7 @@ ET
 BT
 66.24 772.146 Td
 /F1.0 10.5 Tf
-[<59> 69.8242 <65732c2056697267696e69612c2059> 69.8242 <6f75205265616c6c7920446f204e656564206120536368656d61205265676973747279>] TJ
+[<54686520467574757265206f662045544c2049736ed574205768617420497420557365642054> 29.7852 <6f204265>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2639,7 +2639,7 @@ ET
 BT
 66.24 750.366 Td
 /F1.0 10.5 Tf
-<506970656c696e6520746f2074686520436c6f756420d02053747265616d696e67204f6e2d5072656d69736573204461746120666f7220436c6f756420416e616c7974696373> Tj
+[<59> 69.8242 <65732c2056697267696e69612c2059> 69.8242 <6f75205265616c6c7920446f204e656564206120536368656d61205265676973747279>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2674,18 +2674,7 @@ ET
 BT
 66.24 728.586 Td
 /F1.0 10.5 Tf
-[<4f6e205472> 20.0195 <61636b207769746820417061636865204b61666b6120d0204275696c64696e6720612053747265616d696e672045544c20536f6c7574696f6e2077697468205261696c2044617461>] TJ
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-48.24 698.358 Td
-/F2.0 9 Tf
-<53747265616d2050726f63657373696e67> Tj
+<506970656c696e6520746f2074686520436c6f756420d02053747265616d696e67204f6e2d5072656d69736573204461746120666f7220436c6f756420416e616c7974696373> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -2696,7 +2685,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 672.966 Td
+56.8805 706.806 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -2709,7 +2698,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 672.966 Td
+66.24 706.806 Td
 ET
 
 0.0 0.0 0.0 SCN
@@ -2718,9 +2707,20 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 672.966 Td
+66.24 706.806 Td
 /F1.0 10.5 Tf
-[<5061727420313a2053747265616d7320616e642054> 29.7852 <61626c657320696e20417061636865204b61666b613a2041205072696d6572>] TJ
+[<4f6e205472> 20.0195 <61636b207769746820417061636865204b61666b6120d0204275696c64696e6720612053747265616d696e672045544c20536f6c7574696f6e2077697468205261696c2044617461>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+48.24 676.578 Td
+/F2.0 9 Tf
+<53747265616d2050726f63657373696e67> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -2755,7 +2755,7 @@ ET
 BT
 66.24 651.186 Td
 /F1.0 10.5 Tf
-[<5061727420323a2053747265616d7320616e642054> 29.7852 <61626c657320696e20417061636865204b61666b613a2054> 29.7852 <6f706963732c20506172746974696f6e732c20616e642053746f72> 20.0195 <6167652046756e64616d656e74616c73>] TJ
+[<5061727420313a2053747265616d7320616e642054> 29.7852 <61626c657320696e20417061636865204b61666b613a2041205072696d6572>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2778,10 +2778,45 @@ ET
 0.2 0.2 0.2 scn
 0.2 0.2 0.2 SCN
 
-0.6011 Tw
+BT
+66.24 629.406 Td
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
 
 BT
 66.24 629.406 Td
+/F1.0 10.5 Tf
+[<5061727420323a2053747265616d7320616e642054> 29.7852 <61626c657320696e20417061636865204b61666b613a2054> 29.7852 <6f706963732c20506172746974696f6e732c20616e642053746f72> 20.0195 <6167652046756e64616d656e74616c73>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+-0.5 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+56.8805 607.626 Td
+/F1.0 10.5 Tf
+<a5> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+0.0 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+0.6011 Tw
+
+BT
+66.24 607.626 Td
 ET
 
 
@@ -2794,7 +2829,7 @@ ET
 0.6011 Tw
 
 BT
-66.24 629.406 Td
+66.24 607.626 Td
 /F1.0 10.5 Tf
 [<5061727420333a2053747265616d7320616e642054> 29.7852 <61626c657320696e20417061636865204b61666b613a2050726f63657373696e672046756e64616d656e74616c732077697468204b61666b612053747265616d7320616e64>] TJ
 ET
@@ -2807,7 +2842,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 613.626 Td
+66.24 591.846 Td
 /F1.0 10.5 Tf
 <6b73716c4442> Tj
 ET
@@ -2820,7 +2855,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 591.846 Td
+56.8805 570.066 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -2835,7 +2870,7 @@ ET
 1.9675 Tw
 
 BT
-66.24 591.846 Td
+66.24 570.066 Td
 ET
 
 
@@ -2848,7 +2883,7 @@ ET
 1.9675 Tw
 
 BT
-66.24 591.846 Td
+66.24 570.066 Td
 /F1.0 10.5 Tf
 [<505c727420343a2053747265616d7320616e642054> 29.7852 <61626c657320696e20417061636865204b61666b613a20456c6173746963697479> 89.8438 <2c2046> 40.0391 <61756c742054> 29.7852 <6f6c6572> 20.0195 <616e63652c20616e64204f746865722041> 20.0195 <6476616e636564>] TJ
 ET
@@ -2861,7 +2896,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 576.066 Td
+66.24 554.286 Td
 /F1.0 10.5 Tf
 <436f6e6365707473> Tj
 ET
@@ -2872,44 +2907,9 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-48.24 545.838 Td
+48.24 524.058 Td
 /F2.0 9 Tf
 <50657273697374696e67206461746120696e204b61666b61> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-
--0.5 Tc
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-56.8805 520.446 Td
-/F1.0 10.5 Tf
-<a5> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-
-0.0 Tc
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-66.24 520.446 Td
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2588 0.5451 0.7922 scn
-0.2588 0.5451 0.7922 SCN
-
-BT
-66.24 520.446 Td
-/F1.0 10.5 Tf
-[<4974d573204f6b61> 20.0195 <792054> 29.7852 <6f2053746f7265204461746120496e20417061636865204b61666b61>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2944,7 +2944,7 @@ ET
 BT
 66.24 498.666 Td
 /F1.0 10.5 Tf
-<48616e646c696e672047445052207769746820417061636865204b61666b613a20486f7720646f65732061206c6f6720666f726765743f> Tj
+[<4974d573204f6b61> 20.0195 <792054> 29.7852 <6f2053746f7265204461746120496e20417061636865204b61666b61>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2979,6 +2979,41 @@ ET
 BT
 66.24 476.886 Td
 /F1.0 10.5 Tf
+<48616e646c696e672047445052207769746820417061636865204b61666b613a20486f7720646f65732061206c6f6720666f726765743f> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+-0.5 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+56.8805 455.106 Td
+/F1.0 10.5 Tf
+<a5> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+0.0 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+66.24 455.106 Td
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+66.24 455.106 Td
+/F1.0 10.5 Tf
 [<5075626c697368696e67207769746820417061636865204b61666b6120617420546865204e65772059> 69.8242 <6f726b>] TJ
 ET
 
@@ -2988,7 +3023,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-48.24 446.658 Td
+48.24 424.878 Td
 /F2.0 9 Tf
 [<45786163746c792d4f6e63652053656d616e746963732028454f532920616e64205472> 20.0195 <616e73616374696f6e7320696e204b61666b61>] TJ
 ET
@@ -3001,7 +3036,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 421.266 Td
+56.8805 399.486 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -3014,7 +3049,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 421.266 Td
+66.24 399.486 Td
 ET
 
 0.0 0.0 0.0 SCN
@@ -3023,7 +3058,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 421.266 Td
+66.24 399.486 Td
 /F1.0 10.5 Tf
 [<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f626c6f672f65786163746c792d6f6e63652d73656d616e746963732d6172652d706f737369626c652d68657265732d686f772d6170616368652d6b61666b612d>] TJ
 ET
@@ -3034,7 +3069,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 405.486 Td
+66.24 383.706 Td
 /F1.0 10.5 Tf
 <646f65732d69742f> Tj
 ET
@@ -3047,7 +3082,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 383.706 Td
+56.8805 361.926 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -3060,7 +3095,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 383.706 Td
+66.24 361.926 Td
 ET
 
 0.0 0.0 0.0 SCN
@@ -3069,7 +3104,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 383.706 Td
+66.24 361.926 Td
 /F1.0 10.5 Tf
 [<68747470733a2f2f6d656469756d2e636f6d2f406a61> 20.0195 <796b726570732f65786163746c792d6f6e63652d737570706f72742d696e2d6170616368652d6b61666b612d353565316664643061333566>] TJ
 ET
@@ -3080,44 +3115,9 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-48.24 353.478 Td
+48.24 331.698 Td
 /F2.0 9 Tf
 <4b61666b6120616e64204d616368696e65204c6561726e696e67> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-
--0.5 Tc
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-56.8805 328.086 Td
-/F1.0 10.5 Tf
-<a5> Tj
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-
-0.0 Tc
-0.2 0.2 0.2 scn
-0.2 0.2 0.2 SCN
-
-BT
-66.24 328.086 Td
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2588 0.5451 0.7922 scn
-0.2588 0.5451 0.7922 SCN
-
-BT
-66.24 328.086 Td
-/F1.0 10.5 Tf
-[<53747265616d696e67204d616368696e65204c6561726e696e672077697468205469657265642053746f72> 20.0195 <61676520616e6420576974686f757420612044617461204c616b> 20.0195 <65>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -3152,18 +3152,7 @@ ET
 BT
 66.24 306.306 Td
 /F1.0 10.5 Tf
-[<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f626c6f672f6275696c642d6465706c6f> 20.0195 <792d7363616c61626c652d6d616368696e652d6c6561726e696e672d70726f64756374696f6e2d6170616368652d>] TJ
-ET
-
-0.0 0.0 0.0 SCN
-0.0 0.0 0.0 scn
-0.2588 0.5451 0.7922 scn
-0.2588 0.5451 0.7922 SCN
-
-BT
-66.24 290.526 Td
-/F1.0 10.5 Tf
-<6b61666b612f> Tj
+[<53747265616d696e67204d616368696e65204c6561726e696e672077697468205469657265642053746f72> 20.0195 <61676520616e6420576974686f757420612044617461204c616b> 20.0195 <65>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -3174,7 +3163,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-56.8805 268.746 Td
+56.8805 284.526 Td
 /F1.0 10.5 Tf
 <a5> Tj
 ET
@@ -3187,7 +3176,18 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-66.24 268.746 Td
+66.24 284.526 Td
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+66.24 284.526 Td
+/F1.0 10.5 Tf
+[<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f626c6f672f6275696c642d6465706c6f> 20.0195 <792d7363616c61626c652d6d616368696e652d6c6561726e696e672d70726f64756374696f6e2d6170616368652d>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -3198,7 +3198,7 @@ ET
 BT
 66.24 268.746 Td
 /F1.0 10.5 Tf
-[<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f626c6f672f70726564696374696e672d666c696768742d6172726976616c732d776974682d7468652d6170616368652d6b61666b612d73747265616d732d6170692f>] TJ
+<6b61666b612f> Tj
 ET
 
 0.0 0.0 0.0 SCN
@@ -3233,6 +3233,41 @@ ET
 BT
 66.24 246.966 Td
 /F1.0 10.5 Tf
+[<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f626c6f672f70726564696374696e672d666c696768742d6172726976616c732d776974682d7468652d6170616368652d6b61666b612d73747265616d732d6170692f>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+-0.5 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+56.8805 225.186 Td
+/F1.0 10.5 Tf
+<a5> Tj
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+
+0.0 Tc
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+66.24 225.186 Td
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+66.24 225.186 Td
+/F1.0 10.5 Tf
 [<68747470733a2f2f777777> 69.8242 <2e6f7265696c6c79> 89.8438 <2e636f6d2f69646561732f6170616368652d6b61666b612d616e642d7468652d666f75722d6368616c6c656e6765732d6f662d70726f64756374696f6e2d6d616368696e652d>] TJ
 ET
 
@@ -3242,7 +3277,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-66.24 231.186 Td
+66.24 209.406 Td
 /F1.0 10.5 Tf
 <6c6561726e696e672d73797374656d73> Tj
 ET
@@ -3253,7 +3288,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-48.24 203.406 Td
+48.24 181.626 Td
 /F1.0 10.5 Tf
 [<4d616e> 20.0195 <79206d6f726520626c6f6720706f7374732063616e20626520666f756e6420617420>] TJ
 ET
@@ -3264,7 +3299,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-241.1038 203.406 Td
+241.1038 181.626 Td
 /F1.0 10.5 Tf
 [<68747470733a2f2f777777> 69.8242 <2e636f6e666c75656e742e696f2f626c6f672f>] TJ
 ET
@@ -3308,20 +3343,20 @@ endobj
 /Font << /F1.0 17 0 R
 /F2.0 15 0 R
 >>
-/XObject << /Stamp1 110 0 R
+/XObject << /Stamp1 111 0 R
 >>
 >>
-/Annots [79 0 R 80 0 R 81 0 R 82 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 91 0 R 92 0 R 93 0 R 95 0 R 96 0 R 97 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R]
+/Annots [79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 92 0 R 93 0 R 94 0 R 96 0 R 97 0 R 98 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R]
 >>
 endobj
 79 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/the-future-of-etl-isnt-what-it-used-to-be/)
+/URI (https://www.confluent.io/blog/building-real-time-streaming-etl-pipeline-20-minutes/)
 >>
 /Subtype /Link
-/Rect [66.24 790.86 278.0378 805.14]
+/Rect [66.24 790.86 360.7545 805.14]
 /Type /Annot
 >>
 endobj
@@ -3329,10 +3364,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/schema-registry-kafka-stream-processing-yes-virginia-you-really-need-one/)
+/URI (https://www.confluent.io/blog/the-future-of-etl-isnt-what-it-used-to-be/)
 >>
 /Subtype /Link
-/Rect [66.24 769.08 324.2182 783.36]
+/Rect [66.24 769.08 278.0378 783.36]
 /Type /Annot
 >>
 endobj
@@ -3340,10 +3375,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/cloud-analytics-for-on-premises-data-streams-with-kafka)
+/URI (https://www.confluent.io/blog/schema-registry-kafka-stream-processing-yes-virginia-you-really-need-one/)
 >>
 /Subtype /Link
-/Rect [66.24 747.3 421.665 761.58]
+/Rect [66.24 747.3 324.2182 761.58]
 /Type /Annot
 >>
 endobj
@@ -3351,35 +3386,35 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data)
+/URI (https://www.confluent.io/blog/cloud-analytics-for-on-premises-data-streams-with-kafka)
 >>
 /Subtype /Link
-/Rect [66.24 725.52 464.9353 739.8]
+/Rect [66.24 725.52 421.665 739.8]
 /Type /Annot
 >>
 endobj
 83 0 obj
-[78 0 R /XYZ 0 712.77 null]
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data)
+>>
+/Subtype /Link
+/Rect [66.24 703.74 464.9353 718.02]
+/Type /Annot
+>>
 endobj
 84 0 obj
+[78 0 R /XYZ 0 690.99 null]
+endobj
+85 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming)
 >>
 /Subtype /Link
-/Rect [66.24 669.9 334.1288 684.18]
-/Type /Annot
->>
-endobj
-85 0 obj
-<< /Border [0 0 0]
-/A << /Type /Action
-/S /URI
-/URI (https://www.confluent.io/blog/kafka-streams-tables-part-2-topics-partitions-and-storage-fundamentals)
->>
-/Subtype /Link
-/Rect [66.24 648.12 514.0378 662.4]
+/Rect [66.24 648.12 334.1288 662.4]
 /Type /Annot
 >>
 endobj
@@ -3387,10 +3422,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals)
+/URI (https://www.confluent.io/blog/kafka-streams-tables-part-2-topics-partitions-and-storage-fundamentals)
 >>
 /Subtype /Link
-/Rect [66.24 626.34 547.04 640.62]
+/Rect [66.24 626.34 514.0378 640.62]
 /Type /Annot
 >>
 endobj
@@ -3401,7 +3436,7 @@ endobj
 /URI (https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals)
 >>
 /Subtype /Link
-/Rect [66.24 610.56 101.289 624.84]
+/Rect [66.24 604.56 547.04 618.84]
 /Type /Annot
 >>
 endobj
@@ -3409,10 +3444,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts/)
+/URI (https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals)
 >>
 /Subtype /Link
-/Rect [66.24 588.78 547.04 603.06]
+/Rect [66.24 588.78 101.289 603.06]
 /Type /Annot
 >>
 endobj
@@ -3423,32 +3458,32 @@ endobj
 /URI (https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts/)
 >>
 /Subtype /Link
-/Rect [66.24 573.0 111.159 587.28]
+/Rect [66.24 567.0 547.04 581.28]
 /Type /Annot
 >>
 endobj
 90 0 obj
-[78 0 R /XYZ 0 560.25 null]
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts/)
+>>
+/Subtype /Link
+/Rect [66.24 551.22 111.159 565.5]
+/Type /Annot
+>>
 endobj
 91 0 obj
+[78 0 R /XYZ 0 538.47 null]
+endobj
+92 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://www.confluent.io/blog/okay-store-data-apache-kafka/)
 >>
 /Subtype /Link
-/Rect [66.24 517.38 264.0096 531.66]
-/Type /Annot
->>
-endobj
-92 0 obj
-<< /Border [0 0 0]
-/A << /Type /Action
-/S /URI
-/URI (https://www.confluent.io/blog/handling-gdpr-log-forget/)
->>
-/Subtype /Link
-/Rect [66.24 495.6 359.8095 509.88]
+/Rect [66.24 495.6 264.0096 509.88]
 /Type /Annot
 >>
 endobj
@@ -3456,26 +3491,26 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
+/URI (https://www.confluent.io/blog/handling-gdpr-log-forget/)
 >>
 /Subtype /Link
-/Rect [66.24 473.82 301.4943 488.1]
+/Rect [66.24 473.82 359.8095 488.1]
 /Type /Annot
 >>
 endobj
 94 0 obj
-[78 0 R /XYZ 0 461.07 null]
-endobj
-95 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+/URI (https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 >>
 /Subtype /Link
-/Rect [66.24 418.2 525.3333 432.48]
+/Rect [66.24 452.04 301.4943 466.32]
 /Type /Annot
 >>
+endobj
+95 0 obj
+[78 0 R /XYZ 0 439.29 null]
 endobj
 96 0 obj
 << /Border [0 0 0]
@@ -3484,7 +3519,7 @@ endobj
 /URI (https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 >>
 /Subtype /Link
-/Rect [66.24 402.42 102.4125 416.7]
+/Rect [66.24 396.42 525.3333 410.7]
 /Type /Annot
 >>
 endobj
@@ -3492,35 +3527,35 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
+/URI (https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 >>
 /Subtype /Link
-/Rect [66.24 380.64 483.3208 394.92]
+/Rect [66.24 380.64 102.4125 394.92]
 /Type /Annot
 >>
 endobj
 98 0 obj
-[78 0 R /XYZ 0 367.89 null]
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
+>>
+/Subtype /Link
+/Rect [66.24 358.86 483.3208 373.14]
+/Type /Annot
+>>
 endobj
 99 0 obj
+[78 0 R /XYZ 0 346.11 null]
+endobj
+100 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
 /URI (https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage)
 >>
 /Subtype /Link
-/Rect [66.24 325.02 439.5461 339.3]
-/Type /Annot
->>
-endobj
-100 0 obj
-<< /Border [0 0 0]
-/A << /Type /Action
-/S /URI
-/URI (https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
->>
-/Subtype /Link
-/Rect [66.24 303.24 516.4711 317.52]
+/Rect [66.24 303.24 439.5461 317.52]
 /Type /Annot
 >>
 endobj
@@ -3531,7 +3566,7 @@ endobj
 /URI (https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
 >>
 /Subtype /Link
-/Rect [66.24 287.46 97.2045 301.74]
+/Rect [66.24 281.46 516.4711 295.74]
 /Type /Annot
 >>
 endobj
@@ -3539,10 +3574,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/predicting-flight-arrivals-with-the-apache-kafka-streams-api/)
+/URI (https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
 >>
 /Subtype /Link
-/Rect [66.24 265.68 520.5138 279.96]
+/Rect [66.24 265.68 97.2045 279.96]
 /Type /Annot
 >>
 endobj
@@ -3550,10 +3585,10 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.oreilly.com/ideas/apache-kafka-and-the-four-challenges-of-production-machine-learning-systems)
+/URI (https://www.confluent.io/blog/predicting-flight-arrivals-with-the-apache-kafka-streams-api/)
 >>
 /Subtype /Link
-/Rect [66.24 243.9 527.876 258.18]
+/Rect [66.24 243.9 520.5138 258.18]
 /Type /Annot
 >>
 endobj
@@ -3564,7 +3599,7 @@ endobj
 /URI (https://www.oreilly.com/ideas/apache-kafka-and-the-four-challenges-of-production-machine-learning-systems)
 >>
 /Subtype /Link
-/Rect [66.24 228.12 151.1115 242.4]
+/Rect [66.24 222.12 527.876 236.4]
 /Type /Annot
 >>
 endobj
@@ -3572,70 +3607,53 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://www.confluent.io/blog/)
+/URI (https://www.oreilly.com/ideas/apache-kafka-and-the-four-challenges-of-production-machine-learning-systems)
 >>
 /Subtype /Link
-/Rect [241.1038 200.34 391.7386 214.62]
+/Rect [66.24 206.34 151.1115 220.62]
 /Type /Annot
 >>
 endobj
 106 0 obj
-<< /Type /Outlines
-/Count 2
-/First 107 0 R
-/Last 108 0 R
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://www.confluent.io/blog/)
+>>
+/Subtype /Link
+/Rect [241.1038 178.56 391.7386 192.84]
+/Type /Annot
 >>
 endobj
 107 0 obj
-<< /Title <feff0055006e007400690074006c00650064>
-/Parent 106 0 R
-/Count 0
-/Next 108 0 R
-/Dest [7 0 R /XYZ 0 841.89 null]
+<< /Type /Outlines
+/Count 2
+/First 108 0 R
+/Last 109 0 R
 >>
 endobj
 108 0 obj
-<< /Title <feff0043006f006e0066006c00750065006e0074002f004b00610066006b00610020004c006500610072006e0069006e00670020005200650073006f00750072006300650073>
-/Parent 106 0 R
+<< /Title <feff0055006e007400690074006c00650064>
+/Parent 107 0 R
 /Count 0
-/Prev 107 0 R
-/Dest [7 0 R /XYZ 0 760.89 null]
+/Next 109 0 R
+/Dest [7 0 R /XYZ 0 841.89 null]
 >>
 endobj
 109 0 obj
+<< /Title <feff0043006f006e0066006c00750065006e0074002f004b00610066006b00610020004c006500610072006e0069006e00670020005200650073006f00750072006300650073>
+/Parent 107 0 R
+/Count 0
+/Prev 108 0 R
+/Dest [7 0 R /XYZ 0 760.89 null]
+>>
+endobj
+110 0 obj
 << /Nums [0 << /P (1)
 >> 1 << /P (2)
 >> 2 << /P (3)
 >>]
 >>
-endobj
-110 0 obj
-<< /Type /XObject
-/Subtype /Form
-/BBox [0 0 595.28 841.89]
-/Length 162
->>
-stream
-q
-/DeviceRGB cs
-0.0 0.0 0.0 scn
-/DeviceRGB CS
-0.0 0.0 0.0 SCN
-1 w
-0 J
-0 j
-[] 0 d
-q
-0.25 w
-/DeviceRGB CS
-0.8667 0.8667 0.8667 SCN
-48.24 30.0 m
-547.04 30.0 l
-S
-Q
-Q
-
-endstream
 endobj
 111 0 obj
 << /Type /XObject
@@ -3666,6 +3684,34 @@ Q
 endstream
 endobj
 112 0 obj
+<< /Type /XObject
+/Subtype /Form
+/BBox [0 0 595.28 841.89]
+/Length 162
+>>
+stream
+q
+/DeviceRGB cs
+0.0 0.0 0.0 scn
+/DeviceRGB CS
+0.0 0.0 0.0 SCN
+1 w
+0 J
+0 j
+[] 0 d
+q
+0.25 w
+/DeviceRGB CS
+0.8667 0.8667 0.8667 SCN
+48.24 30.0 m
+547.04 30.0 l
+S
+Q
+Q
+
+endstream
+endobj
+113 0 obj
 << /Length1 12884
 /Length 8224
 /Filter [/FlateDecode]
@@ -3715,10 +3761,10 @@ $;ËY∆úe˙|ılØÔvÕ≠‹Z2‘Å;˙õ-%ê¯öè3¯˛û„.|ﬂjﬂÀRÑË˚˚}/òhÒ7/Ñ>ﬂÀ4ú+<ó‡∏ì#hé‡$ı
 N öúº}Ìèè‘r§F"¥pÅˇçÚ ùï'⁄ˇØ>‚oÈ«&Ù6|˝˝¶œW›ﬂøÁÛÁ¨ÿéÿ´´'*Ÿ:‹}•∑çò¬U◊œ!¶@cko¥ i .ø!Nê,˝ª∞&?Çƒr§X¯˜oÅ√≈◊sÖrvéTqÛ®O®Ø9! Ö·[¬≥ƒÌDDT!rÉú"#ˆrˇ3Õa.ß>§.ÑâxÜxmaÛ¬¡o_^>Ä–«ﬂÁ
 endstream
 endobj
-113 0 obj
+114 0 obj
 << /Type /FontDescriptor
 /FontName /7ffb50+NotoSerif-Bold
-/FontFile2 112 0 R
+/FontFile2 113 0 R
 /FontBBox [-212 -250 1306 1058]
 /Flags 6
 /StemV 0
@@ -3729,7 +3775,7 @@ endobj
 /XHeight 1098
 >>
 endobj
-114 0 obj
+115 0 obj
 << /Length 1286
 /Filter [/FlateDecode]
 >>
@@ -3739,10 +3785,10 @@ xúe◊Àn€FÜ·ΩÆBÀtHs&√@ënºËu{st‘í +ﬂ}˘Ω§i ∆/âúyæ_√!u¯ÙÙ””˘tﬂ~ª]ÍsøÔ«È‹n˝Ì
 ø‚ÌJº‚ÌJº‚Ìäπ‚Ì‚¨xªØxªØxáê+ﬁ!√äwπ‚BÆxábÆxáê+ﬁÅÔr≈;‡‡2‰ÕkÁŒúÒJºY≥eºYÜå7+|ú∆xãoSäå7+[∆õe»õ◊öyﬁ¢oV˚ÚÊµñ-„≠åã∑ÈÄ"ØÂ˛R¶Wç*ñ”4XqîÍCô^J˙[(£‡Æ^É1¬¬ª¢y]ï°»kπ}ºYM-x•˙Î»VÊzê∑Ã˛ [YE„VºY≥’Ÿ_}/7◊*ØY%´ÍØe„≠”´q+˝›:˜›.‚ø7ôJ„ã»€E°/â3Y(Yô*AàW	Rı›VJSÉ™Ç∂·:(u@c°D±]a*’Ìf)§9J≠ÒÊ)•o,#⁄\ÿZ>MçU°€\ÿjPS„{HS„ÁM™ïÙjªà∑í{fkîå∞yG·âm[z*EÔsaÎ›>ä&Ó”´”˙Ùj%uº‹Ó;•2^êù∆W√[’ﬂŒ¬ÆÚv˙[æœ˛2ÓÏØ≤u˙[ï¢≥Pö:ŸÁ¬VÃ°ß’Ö>ºMÜ¡Bi2.ƒ¶â«‹Ë‘á!Ø·Òd»kπ`Üºñ=oÃëqWﬁïwdJF(îL164ﬁU†—)ôx0E˙~ÍÒZ? æ=∂◊/∑€ˆƒŒØ’ıê~:˜o?$Æó´Œ“ˇøÁÜÛO
 endstream
 endobj
-115 0 obj
+116 0 obj
 [259 600 600 600 600 600 800 600 399 399 600 600 600 310 600 288 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 671 667 767 652 600 600 818 600 600 733 653 952 600 787 638 600 707 585 652 600 600 1066 600 600 600 600 600 600 600 600 600 599 600 526 648 570 407 560 666 352 600 636 352 985 666 612 645 600 522 487 404 666 605 855 645 579 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]
 endobj
-116 0 obj
+117 0 obj
 << /Length1 17540
 /Length 11008
 /Filter [/FlateDecode]
@@ -3797,10 +3843,10 @@ cBañ\q¿ÇÖë¡h/ú◊0…ÀéAÌâ∞ Ùú4
 ëOï⁄ç®(ÚiapëÎ{/Bû¸Mö‡?E˛Y·xbZ*`kÑ„P@é®€6 }	=Üˆ†≠Pñ˘!¢K7ÓGqÀ◊–EÙ$∫Ïáv†˝˛ß7—¥È¯ÙñpÔF∑ëõX Å∂†=‘Ê3¢§îD,«â*~õ⁄CπÉƒA6–ÇW©ß©”‰é√6\Õº√\•LT&ı$uyy€ÚêË—ßˇ∑—P”
 endstream
 endobj
-117 0 obj
+118 0 obj
 << /Type /FontDescriptor
 /FontName /680134+NotoSerif
-/FontFile2 116 0 R
+/FontFile2 117 0 R
 /FontBBox [-212 -250 1246 1047]
 /Flags 6
 /StemV 0
@@ -3811,7 +3857,7 @@ endobj
 /XHeight 1098
 >>
 endobj
-118 0 obj
+119 0 obj
 << /Length 1286
 /Filter [/FlateDecode]
 >>
@@ -3821,11 +3867,11 @@ xúe◊Àn€FÜ·ΩÆBÀtHs&√@ënºËu{st‘í +ﬂ}˘Ω§i ∆/âúyæ_√!u¯ÙÙ””˘tﬂ~ª]ÍsøÔ«È‹n˝Ì
 ø‚ÌJº‚ÌJº‚Ìäπ‚Ì‚¨xªØxªØxáê+ﬁ!√äwπ‚BÆxábÆxáê+ﬁÅÔr≈;‡‡2‰ÕkÁŒúÒJºY≥eºYÜå7+|ú∆xãoSäå7+[∆õe»õ◊öyﬁ¢oV˚ÚÊµñ-„≠åã∑ÈÄ"ØÂ˛R¶Wç*ñ”4XqîÍCô^J˙[(£‡Æ^É1¬¬ª¢y]ï°»kπ}ºYM-x•˙Î»VÊzê∑Ã˛ [YE„VºY≥’Ÿ_}/7◊*ØY%´ÍØe„≠”´q+˝›:˜›.‚ø7ôJ„ã»€E°/â3Y(Yô*AàW	Rı›VJSÉ™Ç∂·:(u@c°D±]a*’Ìf)§9J≠ÒÊ)•o,#⁄\ÿZ>MçU°€\ÿjPS„{HS„ÁM™ïÙjªà∑í{fkîå∞yG·âm[z*EÔsaÎ›>ä&Ó”´”˙Ùj%uº‹Ó;•2^êù∆W√[’ﬂŒ¬ÆÚv˙[æœ˛2ÓÏØ≤u˙[ï¢≥Pö:ŸÁ¬VÃ°ß’Ö>ºMÜ¡Bi2.ƒ¶â«‹Ë‘á!Ø·Òd»kπ`Üºñ=oÃëqWﬁïwdJF(îL164ﬁU†—)ôx0E˙~ÍÒZ? æ=∂◊/∑€ˆƒŒØ’ıê~:˜o?$Æó´Œ“ˇøÁÜÛO
 endstream
 endobj
-119 0 obj
+120 0 obj
 [259 333 500 559 500 500 742 500 500 500 500 500 250 310 250 288 559 559 559 559 559 559 559 559 559 559 286 500 500 500 500 500 920 705 653 613 727 623 589 713 792 367 500 700 623 937 763 742 604 742 655 543 612 716 674 1046 500 625 500 500 288 500 500 500 500 562 613 492 613 535 369 538 634 319 299 584 310 944 645 577 613 613 471 451 352 634 579 861 578 564 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 361 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 857 500 500 500 500 500 500 500 500 500 500 250 250 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500]
 endobj
 xref
-0 120
+0 121
 0000000000 65535 f 
 0000000015 00000 n 
 0000000240 00000 n 
@@ -3872,85 +3918,86 @@ xref
 0000022029 00000 n 
 0000022202 00000 n 
 0000022379 00000 n 
-0000034912 00000 n 
-0000035426 00000 n 
-0000035470 00000 n 
-0000035729 00000 n 
-0000036004 00000 n 
-0000036283 00000 n 
-0000036542 00000 n 
-0000036586 00000 n 
-0000036762 00000 n 
-0000036806 00000 n 
-0000037006 00000 n 
-0000037223 00000 n 
-0000037452 00000 n 
-0000037496 00000 n 
-0000037679 00000 n 
-0000037880 00000 n 
-0000037924 00000 n 
-0000037968 00000 n 
-0000038200 00000 n 
-0000038402 00000 n 
-0000038612 00000 n 
-0000038818 00000 n 
-0000039019 00000 n 
-0000039226 00000 n 
-0000039460 00000 n 
-0000039504 00000 n 
-0000039744 00000 n 
-0000040003 00000 n 
-0000040244 00000 n 
-0000040485 00000 n 
-0000040726 00000 n 
-0000040948 00000 n 
-0000051701 00000 n 
-0000052221 00000 n 
-0000052435 00000 n 
-0000052680 00000 n 
-0000052905 00000 n 
-0000053130 00000 n 
-0000053174 00000 n 
-0000053388 00000 n 
-0000053629 00000 n 
-0000053856 00000 n 
-0000054084 00000 n 
-0000054327 00000 n 
-0000054570 00000 n 
-0000054614 00000 n 
-0000054815 00000 n 
-0000055011 00000 n 
-0000055221 00000 n 
-0000055265 00000 n 
-0000055503 00000 n 
-0000055741 00000 n 
-0000055961 00000 n 
-0000056005 00000 n 
-0000056222 00000 n 
-0000056458 00000 n 
-0000056693 00000 n 
-0000056927 00000 n 
-0000057173 00000 n 
-0000057420 00000 n 
-0000057596 00000 n 
-0000057673 00000 n 
-0000057814 00000 n 
-0000058059 00000 n 
-0000058135 00000 n 
-0000058406 00000 n 
-0000058677 00000 n 
-0000066993 00000 n 
-0000067214 00000 n 
-0000068577 00000 n 
-0000069493 00000 n 
-0000080594 00000 n 
-0000080810 00000 n 
-0000082173 00000 n 
+0000034959 00000 n 
+0000035473 00000 n 
+0000035517 00000 n 
+0000035805 00000 n 
+0000036063 00000 n 
+0000036338 00000 n 
+0000036618 00000 n 
+0000036877 00000 n 
+0000036921 00000 n 
+0000037096 00000 n 
+0000037140 00000 n 
+0000037341 00000 n 
+0000037558 00000 n 
+0000037787 00000 n 
+0000037831 00000 n 
+0000038014 00000 n 
+0000038216 00000 n 
+0000038260 00000 n 
+0000038304 00000 n 
+0000038537 00000 n 
+0000038739 00000 n 
+0000038949 00000 n 
+0000039154 00000 n 
+0000039355 00000 n 
+0000039563 00000 n 
+0000039797 00000 n 
+0000039841 00000 n 
+0000040082 00000 n 
+0000040341 00000 n 
+0000040582 00000 n 
+0000040821 00000 n 
+0000041061 00000 n 
+0000052274 00000 n 
+0000052802 00000 n 
+0000053027 00000 n 
+0000053241 00000 n 
+0000053485 00000 n 
+0000053710 00000 n 
+0000053936 00000 n 
+0000053980 00000 n 
+0000054194 00000 n 
+0000054436 00000 n 
+0000054663 00000 n 
+0000054891 00000 n 
+0000055133 00000 n 
+0000055376 00000 n 
+0000055420 00000 n 
+0000055620 00000 n 
+0000055816 00000 n 
+0000056027 00000 n 
+0000056071 00000 n 
+0000056309 00000 n 
+0000056548 00000 n 
+0000056768 00000 n 
+0000056812 00000 n 
+0000057031 00000 n 
+0000057267 00000 n 
+0000057502 00000 n 
+0000057735 00000 n 
+0000057981 00000 n 
+0000058229 00000 n 
+0000058405 00000 n 
+0000058482 00000 n 
+0000058623 00000 n 
+0000058868 00000 n 
+0000058944 00000 n 
+0000059215 00000 n 
+0000059486 00000 n 
+0000067802 00000 n 
+0000068023 00000 n 
+0000069386 00000 n 
+0000070302 00000 n 
+0000081403 00000 n 
+0000081619 00000 n 
+0000082982 00000 n 
 trailer
-<< /Size 120
+<< /Size 121
 /Root 2 0 R
 /Info 1 0 R
 >>
 startxref
-83089
+83898
 %%EOF

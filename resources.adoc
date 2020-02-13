@@ -23,6 +23,7 @@ image::confluent-logo-300.png[]
 
 ====== Read
 * http://docs.confluent.io/current/[Confluent Documentation]
+
 * https://kafka.apache.org/documentation/[Apache Kafka Documentation]
 * https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf[Designing Event Driven Systems eBook]
 * https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf[Making Sense of Stream Processing eBook]
@@ -37,6 +38,7 @@ image::confluent-logo-300.png[]
 Many more resources from our website can be found https://developer.confluent.io/[here] and https://www.confluent.io/resources/[here]
 
 ==== Whitepapers
+* https://assets.confluent.io/m/14397e757459a58d/original/20200205-WP-Best_Practices_for_Developing_Apache_Kafka_Applications_on_Confluent_Cloud.pdf[Best Practices for Developing Apache Kafka Applications on Confluent Cloud]
 * https://assets.confluent.io/m/494ef9b6cefa61c/original20190326-WP-Apache_Kafka_Confluent_Platform_Ref_Architecture.pdf[Confluent Platform Reference Architecture]
 * https://assets.confluent.io/m/5bbbc5f29422999/original/20190906-WP-Disaster_Recovery_for_Multi_Datacenter_Apache_Kafka_Deployments.pdf[Disaster Recovery for
 Multi-Datacenter Apache
