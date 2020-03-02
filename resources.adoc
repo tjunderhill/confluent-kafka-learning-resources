@@ -34,6 +34,12 @@ image::confluent-logo-300.png[]
 * https://github.com/confluentinc/examples[Confluent Github Examples]
 * https://github.com/confluentinc/demo-scene[Confluent Github Demos]
 * https://kafka-tutorials.confluent.io/[Say Hello World to event streaming]
+* https://github.com/ora0600/confluent-rbac-demo[Confluent Role based Access Control Demo]
+* https://github.com/daniellavoie/kafka-streaming-workshop[Confluent Streaming Workshop]
+* https://github.com/ora0600/hackathon-ksql[Hackathon for KSQL and Confluent Cloud]: The idea is to play around with KSQL
+* https://github.com/ora0600/confluent-operator2GKE[Confluent Cluster with Confluent Operator into managed K8s (AWS and GCP)]
+* https://github.com/ora0600/replicatorplayground[Play with Confluent Replicator to Confluent Cloud]
+* https://github.com/vdesabou/kafka-docker-playground[Playground for Kafka/Confluent Docker experimentations]
 
 Many more resources from our website can be found https://developer.confluent.io/[here] and https://www.confluent.io/resources/[here]
 
