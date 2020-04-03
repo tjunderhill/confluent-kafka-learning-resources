@@ -41,6 +41,7 @@ image::confluent-logo-300.png[]
 * https://github.com/ora0600/replicatorplayground[Play with Confluent Replicator to Confluent Cloud]
 * https://github.com/vdesabou/kafka-docker-playground[Playground for Kafka/Confluent Docker experimentations]
 * https://github.com/MichaelDrogalis/voluble[Realistic data generator for KSQLDB/KStreams application development]
+* https://github.com/jeanlouisboudart/kafka-platform-prometheus[Simple demo of how to monitor Kafka Platform using Prometheus and Grafana]
 
 Many more resources from our website can be found https://developer.confluent.io/[here] and https://www.confluent.io/resources/[here]
 
