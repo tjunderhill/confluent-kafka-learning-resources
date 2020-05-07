@@ -47,14 +47,15 @@ Many more resources from our website can be found https://developer.confluent.io
 
 ==== Whitepapers
 * https://assets.confluent.io/m/14397e757459a58d/original/20200205-WP-Best_Practices_for_Developing_Apache_Kafka_Applications_on_Confluent_Cloud.pdf[Best Practices for Developing Apache Kafka Applications on Confluent Cloud]
+* https://assets.confluent.io/m/2d7c883a8aa6a71d/original/20200501-WP-Benchmark_Your_Dedicated_Apache_Kafka_Cluster_on_Confluent_Cloud.pdf[Benchmark Your Dedicated Apache Kafka® Cluster on Confluent Cloud]
 * https://assets.confluent.io/m/494ef9b6cefa61c/original20190326-WP-Apache_Kafka_Confluent_Platform_Ref_Architecture.pdf[Confluent Platform Reference Architecture]
 * https://assets.confluent.io/m/5bbbc5f29422999/original/20190906-WP-Disaster_Recovery_for_Multi_Datacenter_Apache_Kafka_Deployments.pdf[Disaster Recovery for
 Multi-Datacenter Apache
 Kafka Deployments]
 * https://assets.confluent.io/m/3009644f13fa8428/original/20170928-WP-Comparing_Confluent_Platform_with_Traditional_Messaging_Middleware.pdf[Comparing Confluent Platform with
 Traditional Messaging Middleware]
-* https://assets.confluent.io/m/7e6a01e527df1110/original/20170608-WP-Microservices_in_the_Apache_Kafka_Ecosystem-EN.pdf[Microservices in the
-Apache Kafka Ecosystem ]
+* https://assets.confluent.io/m/7e6a01e527df1110/original/20170608-WP-Microservices_in_the_Apache_Kafka_Ecosystem-EN.pdf[Microservices in the Apache Kafka Ecosystem ]
+
 
 ==== Professional Services
 * https://www.confluent.io/services/
